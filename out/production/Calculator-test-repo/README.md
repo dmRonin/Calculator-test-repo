@@ -1,2 +1,2 @@
 # Calculator-test-repo
- test check fo IT-mentor
+ test-tech for IT-mentor
